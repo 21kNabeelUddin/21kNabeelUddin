@@ -6,6 +6,9 @@
 - 🌱 I’m learning **Machine Learning & Deep Learning**
 - ⚡ Fun fact: **I enjoy streamlining workflows by automating Real-World problems!**
 
+<p align="left">Certificates
+  <a href="[[Your Coursera URL]](https://coursera.org/share/67648c7ac52ded143a286cc91208ccc8)" target="_blank">🎓 Supervised Machine Learning: Regression and Classification</a> |
+</p>
 
 <h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
 
@@ -17,7 +20,7 @@
   <a href="https://www.linkedin.com/in/syed-nabeel-uddin-b280991b9/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashad qureshi" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/syednabeeluddin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashadqureshi" height="30" width="40" /></a>
   <a href="https://www.facebook.com/nabeel.uddin.921/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashad abdullah" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Nabeel_Uddin/ target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashad001sp" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Nabeel_Uddin/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashad001sp" height="30" width="40" /></a>
  
 </a>
 </p>  
