@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Syed Nabeel Uddin </h1>
 <h2 align="center">An enthusiastic computer science student dedicated to becoming a proficient machine learning engineer!</h2>  
 
-
-- 🔭 I’m currently working on **Web Scraping**
 - 🌱 I’m learning **Machine Learning & Deep Learning**
 - ⚡ Fun fact: **I enjoy streamlining workflows by automating Real-World problems!**
 
