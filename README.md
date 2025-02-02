@@ -6,7 +6,7 @@
 
 <p align="left">
   Certificates:
-  <a href="https://coursera.org/share/67648c7ac52ded143a286cc91208ccc8" target="_blank">🎓 Supervised Machine Learning: Regression and Classification</a>
+  <a href="https://coursera.org/share/fe090251fe91663faf9f2c5cceb94ee4" target="_blank">🎓Machine Learning Specialization</a>
 </p>
 
 
